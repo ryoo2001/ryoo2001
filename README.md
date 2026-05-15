@@ -8,10 +8,6 @@
   关注 Linux、自动化、Python、JavaScript、Web 实践和数据可视化。
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ryoo2001&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ## Tech Stack
 
 <p>
@@ -34,10 +30,3 @@
 | [neumooc](https://github.com/ryoo2001/neumooc) | 东软智慧教育平台自动化 skill |
 | [python_webcrawler](https://github.com/ryoo2001/python_webcrawler) | 数据可视化实践 |
 | [py_coursework](https://github.com/ryoo2001/py_coursework) | Python 课程实践 |
-
-## GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ryoo2001&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryoo2001&layout=compact&theme=default&hide_border=true" alt="Top languages" />
-</p>
